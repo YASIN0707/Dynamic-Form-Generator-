@@ -11,7 +11,7 @@ A React-based application that dynamically generates forms based on a JSON schem
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/jaga4/dynamic-form-generator.git
+   git clone https://github.com/YASIN0707/Dynamic-Form-Generator-.git
    cd dynamic-form-generator](https://github.com/YASIN0707/Dynamic-Form-Generator-.git)
 
    
